@@ -1,0 +1,1 @@
+export { MailOpened } from "./MailOpened";
